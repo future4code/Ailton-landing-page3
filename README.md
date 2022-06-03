@@ -10,6 +10,7 @@ Esperamos que tenham gostado do site que esta com navegação e responsividade f
 ```
 ### http://faithful-chicken.surge.sh/
 
-![image](https://user-images.githubusercontent.com/104540624/171918341-128cf5a3-10d7-417f-8ed8-41ccf75a9e0e.png)
+![image](https://user-images.githubusercontent.com/104540624/171920962-27bb8f27-bca8-4778-b431-5777bfe339ea.png)
+
 ![image](https://user-images.githubusercontent.com/104540624/171918668-c4b51022-d277-4ec8-855a-fac6c6921a86.png)
 
