@@ -9,3 +9,5 @@ As cores do projeto foram retirada do logo, sendo apenas algumas imagens de core
 Esperamos que tenham gostado do site que esta com navegação e responsividade funcionando conforme as boas práticas! ; )
 ```
 ### http://faithful-chicken.surge.sh/
+
+![image](https://user-images.githubusercontent.com/104540624/171918341-128cf5a3-10d7-417f-8ed8-41ccf75a9e0e.png)
