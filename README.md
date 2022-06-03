@@ -8,7 +8,7 @@ Há link para envio de e-mail e para as redes sociais, como face, twitter, linke
 As cores do projeto foram retirada do logo, sendo apenas algumas imagens de cores diferentes, aumentando assim a atração do site.
 Esperamos que tenham gostado do site que esta com navegação e responsividade funcionando conforme as boas práticas! ; )
 ```
-### http://faithful-chicken.surge.sh/
+### http://flimsy-scale.surge.sh/
 
 ![image](https://user-images.githubusercontent.com/104540624/171920962-27bb8f27-bca8-4778-b431-5777bfe339ea.png)
 
