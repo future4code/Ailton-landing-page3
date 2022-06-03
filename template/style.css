@@ -99,6 +99,14 @@ nav li:hover{
     row-gap: 12px;
 }
 
+.containerTime{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: center;
+    align-items: center;
+}
+
 main {
     display: grid;
     grid-area: 1/2/2/6;
@@ -145,6 +153,7 @@ main h2{
     border-radius: 10px;
     box-shadow: 2vh 2vh #67412d;
     margin: 2%;
+    width: 300px;
 }
 
 .divButton{
